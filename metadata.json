@@ -1,0 +1,6 @@
+{
+  "name": "GUTIVERSE",
+  "description": "16 Bead Multiplayer Arena created by Touhidul Hassan Rifat. PLAY • CONNECT • CONQUER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
